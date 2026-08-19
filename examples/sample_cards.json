@@ -1,0 +1,34 @@
+[
+  {
+    "card_id": "EVIDENCE-001",
+    "card_type": "evidence",
+    "date": "2026-01-21",
+    "title": "Reasons the idea looks attractive",
+    "text": "The educator notes improving demand, strong recent performance, and a price area that has repeatedly attracted buyers.",
+    "source": "synthetic morning commentary"
+  },
+  {
+    "card_id": "EPISODE-002",
+    "card_type": "episode",
+    "date": "2026-01-21",
+    "title": "Similar past example",
+    "text": "In a comparable setup, the educator balanced the positive case against broader market conditions before reaching a conclusion.",
+    "source": "synthetic review"
+  },
+  {
+    "card_id": "EVIDENCE-003",
+    "card_type": "evidence",
+    "date": "2026-01-21",
+    "title": "Potential risks and warning signs",
+    "text": "The archive identifies weak market breadth, an upcoming earnings event, and recent volatility as risks that could make the idea less attractive.",
+    "source": "synthetic risk notes"
+  },
+  {
+    "card_id": "OUTCOME-004",
+    "card_type": "outcome",
+    "date": "2026-02-10",
+    "title": "Later example outcome",
+    "text": "A separate later example moved higher after the initial discussion, but the review emphasizes that the result does not prove the original reasoning was correct.",
+    "source": "synthetic later review"
+  }
+]
